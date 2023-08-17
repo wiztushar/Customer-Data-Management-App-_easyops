@@ -8,6 +8,7 @@ This is a simple User Database Management App built using React that allows you 
 - Add new users to the database.
 - Update existing user information.
 - Delete users from the database.
+- Enhanced user experience with SweetAlert 2 for notifications.
 
 ## Installation
 
@@ -34,6 +35,11 @@ This is a simple User Database Management App built using React that allows you 
    ```bash
    yarn install
    ```
+4.Install the Sweetalert2 for notification and pop-ups
+   
+   ```bash
+   npm i sweetalert2
+   ```
 
 ## Usage
 
@@ -58,6 +64,7 @@ This is a simple User Database Management App built using React that allows you 
 - React: A JavaScript library for building user interfaces.
 - React Router: For managing routing within the app.
 - Conditional Rendering:Displyas different components based on set of conditions.
+- SweetAlert 2: A beautiful, responsive, customizable, accessible replacement for JavaScript's popup boxes.
 
 
 ## Contributing
