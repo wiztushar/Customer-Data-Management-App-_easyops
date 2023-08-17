@@ -57,7 +57,7 @@ This is a simple User Database Management App built using React that allows you 
 
 - React: A JavaScript library for building user interfaces.
 - React Router: For managing routing within the app.
-- Axios: A promise-based HTTP client for making API requests.
+- Conditional Rendering:Displyas different components based on set of conditions.
 
 
 ## Contributing
